@@ -1,15 +1,15 @@
 owner: diegosimao
-repo: AI-Governance- Status
+repo: GoverTree - Status
 
 sites:
-  - name: ST Governance (App)
-    url: https://st-governance.com
+  - name: GoverTree (App)
+    url: https://govertree.com
 
 status-website:
   baseUrl: /AI-Governance---Status
-  name: ST Governance — Status
-  introTitle: "**Status do ST Governance**"
-  introMessage: Página de status em tempo real do ST Governance, monitorada a cada 5 minutos.
+  name: GoverTree — Status
+  introTitle: "**Status do GoverTree**"
+  introMessage: Página de status em tempo real do GoverTree, monitorada a cada 5 minutos.
   navbar:
     - title: Status
       href: /
