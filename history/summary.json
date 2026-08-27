@@ -1,20 +1,20 @@
 [
   {
-    "name": "ST Governance (App)",
-    "url": "https://st-governance.com",
-    "icon": "https://icons.duckduckgo.com/ip3/st-governance.com.ico",
-    "slug": "st-governance-app",
+    "name": "GoverTree (App)",
+    "url": "https://govertree.com",
+    "icon": "https://icons.duckduckgo.com/ip3/govertree.com.ico",
+    "slug": "gover-tree-app",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 910,
-    "timeWeek": 910,
-    "timeMonth": 910,
-    "timeYear": 910,
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {}
   }
 ]
