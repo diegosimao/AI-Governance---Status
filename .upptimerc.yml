@@ -1,12 +1,12 @@
 owner: diegosimao
-repo: GoverTree - Status
+repo: GoverTree---Status
 
 sites:
   - name: GoverTree (App)
     url: https://govertree.com
 
 status-website:
-  baseUrl: /AI-Governance---Status
+  cname: status.govertree.com
   name: GoverTree — Status
   introTitle: "**Status do GoverTree**"
   introMessage: Página de status em tempo real do GoverTree, monitorada a cada 5 minutos.
